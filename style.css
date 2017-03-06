@@ -1,0 +1,33 @@
+body{
+	font-family: Arial;
+	font-size: 12pt;
+	width:200mm;
+	margin:10mm;
+}
+
+h2{
+	font-size:14pt;
+	font-weight:bold;
+}
+
+h3{
+	font-size:14pt;
+	font-style:italic;
+	font-weight:normal;
+}
+
+.entries {
+	width: 100%;
+}
+
+.entries th {
+	background-color:#CCCCCC;
+	text-align:left;
+	padding:1mm;
+}
+
+.entries td {
+	text-align:left;
+	padding:1mm;
+	vertical-align:top;
+}
